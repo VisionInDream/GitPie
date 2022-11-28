@@ -342,3 +342,7 @@ $ git config --global alias.unstage 'reset HEAD --' # git unstage fileA
 $ git config --global alias.last 'log -1 HEAD'
 $ git config --global alias.visual '!gitk'  # git visual to run gitk
 ```
+* creating a branch
+```bash
+$ git branch kojo
+```
